@@ -22,3 +22,5 @@ https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
 https://raw.githubusercontent.com/ruseriouss/SkyNet-Filter-List/refs/heads/main/Skynet/isp
 https://raw.githubusercontent.com/bitwire-it/ipblocklist/refs/heads/main/outbound.txt
 https://raw.githubusercontent.com/scriptzteam/IP-BlockList-v4/refs/heads/main/ips.txt
+https://raw.githubusercontent.com/romainmarcoux/malicious-ip/refs/heads/main/full-aa.txt
+https://raw.githubusercontent.com/bitwire-it/ipblocklist/refs/heads/main/inbound.txt
